@@ -1,6 +1,5 @@
-<h1 align="center">Hey, I'm Lionel</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,100:1F6FEB&height=140&section=header&text=Lionel&fontColor=58A6FF&fontSize=42&animation=twinkling" alt="dark animated header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=120&section=header&text=Lionel&fontColor=58A6FF&fontSize=42&animation=twinkling" alt="dark animated header" />
 </p>
 
 <p align="center">
