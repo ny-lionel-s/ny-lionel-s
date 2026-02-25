@@ -1,4 +1,4 @@
-# ny-lionel-s.md
+
 
 <div align="center">
   <h1 style="color: #c8c8c8;">Hi, I'm <strong style="color: #fca311;">Lionel</strong> 👋</h1>
