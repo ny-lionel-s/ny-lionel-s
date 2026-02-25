@@ -16,17 +16,6 @@
 - Focus: **Full-stack development, automation, and practical tooling**
 - Mindset: **Build it simple. Make it reliable. Ship it.**
 
-## Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
-</p>
-
 ## GitHub Stats
 
 <p align="center">
@@ -36,14 +25,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lionel&theme=github-dark-blue&hide_border=true&background=0D1117" />
-</p>
-
-## Connect
-
-<p>
-  <a href="https://github.com/lionel"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
 </p>
 
 ---
