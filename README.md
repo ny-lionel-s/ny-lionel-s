@@ -16,19 +16,18 @@
 - Focus: **Full-stack development, automation, and practical tooling**
 - Mindset: **Build it simple. Make it reliable. Ship it.**
 
-## GitHub Stats
+## Dark Animations
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lionel&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lionel&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=120&section=header&text=Lionel&fontColor=58A6FF&fontSize=42&animation=twinkling" alt="dark animated header" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lionel&theme=github-dark-blue&hide_border=true&background=0D1117" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=8B949E&center=true&vCenter=true&width=700&lines=Shipping+practical+code;Designing+for+clarity;Improving+every+day" alt="dark typing animation" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lionel&label=Profile%20views&color=58A6FF&style=flat" alt="profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer" alt="dark animated footer" />
 </p>
